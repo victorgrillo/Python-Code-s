@@ -1,0 +1,7 @@
+def ProdutosValores (Operando1,Operando2): <br/>
+    Resultado =  Operando1 * Operando2 <br/>
+    return Resultado <br/>
+
+Resultado = ProdutosValores(4,5) <br/>
+
+print(f"O resultado da multiplicação é: {Resultado}") <br/>
