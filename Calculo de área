@@ -1,0 +1,5 @@
+length = float(input("Enter the length: ")) <br/>
+width = float(input("Enter the width: ")) <br/>
+area = width * length <br/>
+
+print(f"The area is: {area}cm²") <br/>
