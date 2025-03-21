@@ -1,0 +1,8 @@
+rows = int(input("Enter the # of rows: ")) <br/>
+columns = int(input("Enter the # of columns: ")) <br/>
+symbol = input("Enter a symbol to use: ") <br/>
+
+for x in range (rows): <br/>
+    for y in range (columns): <br/>
+        print(symbol, end="") <br/>
+    print() <br/>
