@@ -1,0 +1,6 @@
+contador = 1 <br/>
+
+
+while (contador <=100): <br/>
+    print(f"O valor do contador é: {contador}") <br/>
+    contador += 1 <br/>
